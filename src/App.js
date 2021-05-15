@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Interceptors</h1>
+      <h1>Axios Interceptors - Jayson Ilagan</h1>
     </div>
   );
 }
